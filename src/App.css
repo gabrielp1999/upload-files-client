@@ -38,7 +38,7 @@
   background-color: #005E7A;
 }
 
-.file-upload-container button {
+.file-upload-container .btn {
   margin-top: 20px;
   padding: 10px 20px;
   background-color: #008CBA;
@@ -56,4 +56,5 @@
 
 .name-file{
   color: #005E7A;
+  font-weight: bold;
 }
